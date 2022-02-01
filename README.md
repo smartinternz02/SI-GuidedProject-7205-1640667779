@@ -10,34 +10,48 @@ We have a solution which involves using the intelligence of computers that is us
 ## Hardware / Software Designing
 
 ### Hardware Requirements :
-  -A Generic PC with at least 8 GB ram
-  -A Tensorprocessing Unit for faster calculations and accurate model training
+  -A Generic PC with at least 8 GB ram  
+  
+  -A Tensorprocessing Unit for faster calculations and accurate model training  
+  
   -A good Processor to handle all the operations
 
 ### Software Requirements :
-  -A Windows / Linux / Mac Operating System
-  -Anaconda Installed including with all the Dependencies
+  -A Windows / Linux / Mac Operating System  
+  
+  -Anaconda Installed including with all the Dependencies  
+  
   -Spyder,Jupyter notebook and Flask for the entire application development.
   
 ### Deployment Requirements :
-  -IBM cloud
+  -IBM cloud  
+  
   -IBM Watson Studio
   
 ## Advantages and Disadvantages
 
 ### Advantages
-  -Easily identifies trends and patterns in phishing sites
-  -Continuous Development
-  -Completely Automated
-  -Quickly Determines Malicious Sites as it has a lot of training
-  -Can be Integrated anywhere with online deployment
+  -Easily identifies trends and patterns in phishing sites  
+  
+  -Continuous Development  
+  
+  -Completely Automated  
+  
+  -Quickly Determines Malicious Sites as it has a lot of training  
+  
+  -Can be Integrated anywhere with online deployment  
+  
   -Efficient
 
 ### Disadvantages
-  -Data Acquisition
-  -Takes a lot of time to train models
-  -Efficiency is dependent upon the qualify Data acquired
-  -Prone to error as Phishing tactics change regularly
+  -Data Acquisition  
+  
+  -Takes a lot of time to train models  
+  
+  -Efficiency is dependent upon the qualify Data acquired  
+  
+  -Prone to error as Phishing tactics change regularly  
+  
   -Consumes a lot of CPU,GPU and TPU power to train models
 
 ## Applications
@@ -46,15 +60,21 @@ It has a wide range of application not just in terms of phishing detection but t
 
 But first let's talk about phishing:
 
-  -It can be used as generic checker if any someone is not sure about a website while entering personal information
-  -It can be shipped compacted and converted into an extension which can then be used by web browsers to quickly detect and alert the user instead of user check manually
+  -It can be used as generic checker if any someone is not sure about a website while entering personal information  
+  
+  -It can be shipped compacted and converted into an extension which can then be used by web browsers to quickly detect and alert the user instead of user check manually  
+  
   -Can be integrated into antiviruses and firewalls to avoid and block such websites from accessing information.
 
 Uses of the technique logistic Regression include :
-  -Text analytics
-  -Simulations
-  -Descriptive Statistics
-  -Credit scoring
+  -Text analytics  
+  
+  -Simulations  
+  
+  -Descriptive Statistics  
+  
+  -Credit scoring  
+  
   -Gaming
   
 ## Future scope
